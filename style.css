@@ -1,0 +1,103 @@
+.navbar{
+    background-color: #D9D9D9;
+
+}
+.navbar-brand {
+    color: #F20505 !important ;
+    /* se usa el !important para superponer a otro codigo el mismo modificador */
+    font-weight: bold;
+    font-size: larger;
+
+}
+
+.navbar-brand img{
+    height: 70px;
+}
+/* color de iconos de van */
+.nav-link {
+    color: #BF0A19 ;
+
+}
+.Jumbotron{
+    height:400px;
+    background-image: url(./img/pan_dulce_duo.jpg);
+    font-weight: bolder;
+    background-position:center ;
+    background-size:cover ;
+
+}
+h2{
+    text-align: center;
+    background-color: #D9D9D9;
+    padding: 20px;
+    font-weight: bold;
+    color: #F20707 ;
+    text-shadow: 0 0 2px white ;
+    margin-bottom: 0;
+}
+
+.prod-left{
+    background-image: url(./img/pastafrola_cerca.jpg);
+    height: 200px;
+    background-position:center ;
+    background-size:cover ;
+    margin-bottom: 40px;
+
+}
+.prod-right{
+    padding: 20px;
+}
+.prod2-left{
+    background-image: url(./img/pan_d_lado.jpg);
+    height: 200px;
+    background-position:center ;
+    background-size:cover ;
+    margin-bottom: 40px;
+
+}
+.prod-right{
+    padding: 20px;
+}
+.prod3-left{
+    background-image: url(./img/pasta_rellena.jpg);
+    height: 200px;
+    background-position:center ;
+    background-size:cover ;
+
+}
+.prod3-right{
+    padding: 20px;
+}
+
+.serv-left{
+    background-image: url(./img/yo_cortando.jpg);
+    height: 200px;
+    background-position:center ;
+    background-size:cover ;
+    margin-bottom: 40px;
+
+}
+.serv-right{
+    padding: 20px;
+}
+.serv2-left{
+    background-image: url(./img/viejo_yo.jpg);
+    height: 200px;
+    background-position:center ;
+    background-size:cover ;
+    margin-bottom: 40px;
+
+}
+.serv-right{
+    padding: 20px;
+}
+.serv3-left{
+    background-image: url(./img/alfajores_choco_p.jpg);
+    height: 200px;
+    background-position:center ;
+    background-size:cover ;
+
+}
+.serv3-right{
+    padding: 20px;
+}
