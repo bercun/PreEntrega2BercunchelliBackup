@@ -49,6 +49,7 @@ h2{
     background-position:center ;
     background-size:cover ;
     margin-bottom: 40px;
+   
 
 }
 .prod-right{
@@ -62,7 +63,7 @@ h2{
     margin-bottom: 40px;
 
 }
-.prod-right{
+.prod2-right{
     padding: 20px;
 }
 .prod3-left{
@@ -95,7 +96,7 @@ h2{
     margin-bottom: 40px;
 
 }
-.serv-right{
+.serv2-right{
     padding: 20px;
 }
 .serv3-left{
