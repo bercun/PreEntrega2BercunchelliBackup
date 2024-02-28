@@ -1,3 +1,10 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 .navbar{
     background-color: #D9D9D9;
 
@@ -13,7 +20,7 @@
 .navbar-brand img{
     height: 70px;
 }
-/* color de iconos de van */
+/* color de iconos de nav */
 .nav-link {
     color: #BF0A19 ;
 
@@ -81,9 +88,9 @@ h2{
     padding: 20px;
 }
 .serv2-left{
-    background-image: url(./img/viejo_yo.jpg);
+    background-image: url(./img/delivery-guy-1424808_1280.png);
     height: 200px;
-    background-position:center ;
+    background-position:top ;
     background-size:cover ;
     margin-bottom: 40px;
 
@@ -103,14 +110,12 @@ h2{
 }
 
 
-
-
 /* inicio de footer */
 
 footer{
     background-color:white;
     color: #000;
-    padding: 15px;
+    padding: 5px;
     text-align: center;
     font-size: medium;
 }
@@ -130,7 +135,7 @@ footer a{
 
 footer .redes i {
     color: #F20707;
-    font-size: 25px;
+    font-size: 20px;
     letter-spacing: 30px;
 
 }
